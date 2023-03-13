@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Duy Nghia '
 layout: PageLayout
 colors: colors-a
 backgroundImage:
