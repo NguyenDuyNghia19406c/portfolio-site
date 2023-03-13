@@ -1,5 +1,5 @@
 ---
-title: 'Duy Nghia '
+title: Duy Nghia ne
 layout: PageLayout
 colors: colors-a
 backgroundImage:
