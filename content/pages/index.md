@@ -10,7 +10,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-d
     backgroundSize: full
     title: 'welcome to my site, I’m a fresh data analyst. let''s start!!!'
     subtitle: >-
