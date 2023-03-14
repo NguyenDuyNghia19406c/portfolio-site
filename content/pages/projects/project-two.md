@@ -7,7 +7,7 @@ layout: ProjectLayout
 date: '2021-08-01'
 description: >-
   This is the big academic project that I experienced. My team achieved a
-  several honored awards from this.  
+  several honored awards from this. 
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
