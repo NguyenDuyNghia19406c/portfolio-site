@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/5c16fe82a43d64633d2c.jpg
-  altText: 'My '
+  altText: My research team
 media:
   type: ImageBlock
   url: /images/bg2.jpg
