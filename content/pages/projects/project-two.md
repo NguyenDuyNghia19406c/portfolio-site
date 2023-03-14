@@ -5,9 +5,7 @@ title: >-
 colors: colors-a
 layout: ProjectLayout
 date: '2021-08-01'
-description: >-
-  This is the big academic project that I experienced. My team achieved a
-  several honored awards from this. 
+description: 'This is the big academic project that I experienced. This is the first '
 featuredImage:
   type: ImageBlock
   url: /images/5c16fe82a43d64633d2c.jpg
