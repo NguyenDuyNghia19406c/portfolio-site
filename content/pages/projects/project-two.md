@@ -10,7 +10,7 @@ description: >-
   several honored awards from this. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/5c16fe82a43d64633d2c.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
