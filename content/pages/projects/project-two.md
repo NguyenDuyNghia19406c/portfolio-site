@@ -5,7 +5,7 @@ title: >-
 colors: colors-a
 layout: ProjectLayout
 date: '2021-08-01'
-description: 'This is '
+description: 'This is the '
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
